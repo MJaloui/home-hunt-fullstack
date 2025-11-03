@@ -1,0 +1,47 @@
+/*some help with claude to fix the style.css*/
+
+body{
+  padding-top:80px;
+  word-wrap:break-word; //helps with the layout of the page
+}
+
+
+img{
+  height: 200px;
+}
+
+.home-listing {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+}
+
+.home-listing p {
+  margin: 8px 0;
+}
+
+.home-actions {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+
+.home-actions button {
+  margin: 5px 5px 5px 0;
+}
+
+.home-actions span {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.messages {
+  list-style: none;
+  padding: 0;
+}
+
+.message {
+  margin-bottom: 0;
+}
