@@ -4,7 +4,7 @@
 
 This is a full-stack home tracking application that allows users to save and evaluate potential homes. Users can add properties with addresses, prices, and comments, then vote whether they love or hate each listing. Perfect for house hunters who want to organize their search and keep track of their opinions on different properties.
 
-<img width="1444" height="460" alt="image" src="https://github.com/user-attachments/assets/3332ca3f-8746-473e-93a4-a034053962a2" />
+<img width="1252" height="830" alt="image" src="https://github.com/user-attachments/assets/695f6794-56b6-4c17-bd05-b0c93ca4c725" />
 
 **Core Features**
 
